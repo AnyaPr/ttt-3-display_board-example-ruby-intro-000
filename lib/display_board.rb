@@ -1,3 +1,7 @@
 def display_board
-print "Tic Tac Toe"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
